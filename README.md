@@ -59,7 +59,7 @@ The following tools were used to complete this project:
 You can view my completed CV here:
 
 Google Docs Resume:
-(https://docs.google.com/document/d/1yXD3M2_4crRepm48aeQMSyqdemv2WO5zaitQ9obwTaE/edit?usp=sharing))
+[My CV](https://docs.google.com/document/d/1yXD3M2_4crRepm48aeQMSyqdemv2WO5zaitQ9obwTaE/edit?usp=sharing)
 
 # Future Improvements
 
