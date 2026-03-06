@@ -2,9 +2,9 @@
 
 # My Information
 
-<br>Name: Nthabiseng Moloi
-<br>Course: Software Development
-<br>Institution: CodeSpace Academy
+<br>**Name:** Nthabiseng Moloi
+<br>**Course:** Software Development
+<br>**Institution:** CodeSpace Academy
 
 # Project Overview
 
