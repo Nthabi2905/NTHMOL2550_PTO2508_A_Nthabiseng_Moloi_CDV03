@@ -1,10 +1,10 @@
 ## Starter CV for a Software Development Role – CDV03
 
-# Student Information
+# My Information
 
-Name: Nthabiseng Moloi
-Course: Software Development
-Institution: CodeSpace Academy
+<br>Name: Nthabiseng Moloi
+<br>Course: Software Development
+<br>Institution: CodeSpace Academy
 
 # Project Overview
 
